@@ -1,11 +1,12 @@
 import React from 'react';
-import './index.css'
+import './index.css';
+import coforgeLogo from '../../images/Logo.png';
 
 const Header = () =>{
     return(
        <div className='image-div'>
         <div className='logo'>
-             DLXPRESS
+             <img src={coforgeLogo}/>
         </div>
        </div>
     )

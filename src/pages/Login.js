@@ -11,8 +11,8 @@ const useStyles = makeStyles({
         display:'flex',
         justifyContent:'center',
         alignItems:'center',
-        top:'10%',
-        position:'relative',
+        top:'30%',
+        position:'absolute',
     },
     loginCard:{
         width:460,
